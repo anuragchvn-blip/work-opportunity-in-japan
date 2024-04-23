@@ -73,4 +73,4 @@ This website provides information about job opportunities in Japan. It includes 
 
 ## Contact
 
-For any inquiries or issues, please contact us at anuragchvn1[anuragchvn1@gmail.com](mailto:anuragchvn1@gmail.com).
+For any inquiries or issues, please contact us at [anuragchvn1@gmail.com](mailto:anuragchvn1@gmail.com).
